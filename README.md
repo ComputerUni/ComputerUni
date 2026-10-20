@@ -13,9 +13,8 @@
 <!-- Teknoloji Rozetleri -->
 ### 🛠️ Kullandığım Teknolojiler & Araçlar
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,androidstudio,html,css,js,bootstrap,postgres,mongodb,git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,androidstudio,html,css,js,ts,react,bootstrap,postgres,mongodb,git,github,postman" />
 </p>
-
 <br/>
 
 <!-- İstatistik Kartları -->
