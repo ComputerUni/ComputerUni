@@ -54,21 +54,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2px" />
 <br/>
 
-<h3 id="-katki-gecmisi">🏙️ Katkı Grafiği</h3>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ComputerUni&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ComputerUni&theme=tokyonight" width="95%" alt="Profile Summary Card" />
-</p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ComputerUni/ComputerUni/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ComputerUni/ComputerUni/output/github-contribution-grid-snake.svg">
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ComputerUni/ComputerUni/output/github-contribution-grid-snake-dark.svg" width="95%" />
-</picture>
-
 <br/><br/>
 
 <h3 id="-iletisim">📫 İletişim & Ağ</h3>
