@@ -56,13 +56,13 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ComputerUni/ComputerUni/output/calendar3d.svg" alt="3D Katkı Haritası" width="95%" />
+  <img src="https://raw.githubusercontent.com/ComputerUni/ComputerUni/output/github-metrics.svg" alt="3D Katkı Haritası" width="95%" />
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ComputerUni/ComputerUni/output/pacman.svg" alt="Pac-Man Katkı Animasyonu" width="100%" />
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Pac-Man" width="100%" />
 </p>
 
 <br/><br/>
