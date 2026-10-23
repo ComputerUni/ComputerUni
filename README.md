@@ -51,7 +51,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://pacman-extra-contributions.vercel.app/api?username=ComputerUni&theme=tokyonight" width="95%" alt="Pacman Contribution Animation" />
+  <img src="https://raw.githubusercontent.com/ComputerUni/ComputerUni/output/github-user-contribution-dark.svg" alt="Pac-Man Katkı Animasyonu" width="100%" />
 </p>
 
 <br/>
