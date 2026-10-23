@@ -56,7 +56,7 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ComputerUni/ComputerUni/output/github-metrics.svg" alt="3D Katkı Haritası" width="95%" />
+  <img src="https://raw.githubusercontent.com/ComputerUni/ComputerUni/github-metrics.svg" alt="3D Katkı Haritası" width="95%" />
 </p>
 
 <br/>
