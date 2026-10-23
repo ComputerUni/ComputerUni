@@ -16,23 +16,15 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
-      - uses: Platane/snk/svg-only@v3
+      - name: Generate Pacman
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ComputerUni
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          user: ComputerUni
-          template: classic
-          base: ""
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+            dist/github-user-contribution.svg?palette=pacman
+            dist/github-user-contribution-dark.svg?palette=pacman&color_snake=yellow
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
