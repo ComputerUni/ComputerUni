@@ -55,13 +55,6 @@
 <br/>
 
 
-<!-- 3D Katkı Haritası (main dalından) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ComputerUni/ComputerUni/main/github-metrics.svg" alt="3D Katkı Haritası" width="95%" />
-</p>
-
-<br/>
-
 <!-- Sarı Pac-Man Katkı Yılanı (output dalından) -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/ComputerUni/ComputerUni/output/pacman.svg" alt="Pac-Man Katkı Animasyonu" width="100%" />
