@@ -1,4 +1,4 @@
-name: Generate Pacman Animation
+name: Generate 3D Calendar and Pacman
 
 on:
   schedule:
@@ -10,21 +10,28 @@ on:
 
 jobs:
   build:
+    runs-on: ubuntu-latest
     permissions:
       contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
-
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate Pacman
-        uses: Platane/snk/svg-only@v3
+      - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ComputerUni
           outputs: |
-            dist/github-user-contribution.svg?palette=pacman
-            dist/github-user-contribution-dark.svg?palette=pacman&color_snake=yellow
+            dist/pacman.svg?color_snake=yellow&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
+
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: ComputerUni
+          template: classic
+          base: ""
+          output_action: none
+          filename: dist/calendar3d.svg
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
