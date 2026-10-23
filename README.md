@@ -54,12 +54,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2px" />
 <br/>
 
-
-<!-- Sarı Pac-Man Katkı Yılanı (output dalından) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ComputerUni/ComputerUni/output/pacman.svg" alt="Pac-Man Katkı Animasyonu" width="100%" />
+  <img src="https://raw.githubusercontent.com/ComputerUni/ComputerUni/output/github-contribution-grid-snake-dark.svg" alt="Pac-Man Katkı Animasyonu" width="100%" />
 </p>
-
 <br/><br/>
 
 <h3>🌐 İletişim & Profesyonel Ağ</h3>
