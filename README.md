@@ -47,7 +47,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ComputerUni&theme=tokyonight&hide_border=true&stroke=38bdf8&background=0b0f19&ring=a855f7&fire=38bdf8&timezone=Europe/Istanbul&cache_seconds=1800" alt="GitHub Streak" height="150" />
+  <img src="https://streak-stats.demolab.com/?user=ComputerUni&theme=tokyonight&hide_border=true&stroke=38bdf8&background=0b0f19&ring=a855f7&fire=38bdf8&timezone=Europe/Istanbul&cache_seconds=1800&v=1" alt="GitHub Streak" height="150" />
 </p>
 
 <br/>
