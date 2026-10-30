@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Modern Minimalist Gradient Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,23,30&height=220&section=header&text=Mehmet%20Kadir%20Güngör&fontSize=42&fontAlignY=38&animation=fadeIn" width="100%" alt="Header" />
+<!-- Modern Minimalist Gradient Header (Tokyo Night & Cyberpunk Tonları) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0b0f19,1e1b4b,38bdf8,a855f7&height=220&section=header&text=Mehmet%20Kadir%20Güngör&fontSize=42&fontAlignY=38&animation=fadeIn" width="100%" alt="Header" />
 
 <!-- Daktilo Metni -->
 <a href="https://git.io/typing-svg">
@@ -21,15 +21,20 @@
   <tr style="border: none;">
     <td align="center" width="260" style="border: none; padding: 14px; background: rgba(255,255,255,0.02); border-radius: 8px;">
       <span style="font-size: 14px; font-weight: bold; color: #38bdf8;">⚙️ Backend & Mimari</span><br/><br/>
-      <img src="https://skillicons.dev/icons?i=cs,dotnet,java,postman" alt="Backend" />
+      <img src="https://skillicons.dev/icons?i=cs,dotnet,java" alt="Backend" />
     </td>
-    <td align="center" width="280" style="border: none; padding: 14px; background: rgba(255,255,255,0.02); border-radius: 8px;">
+    <td align="center" width="300" style="border: none; padding: 14px; background: rgba(255,255,255,0.02); border-radius: 8px;">
       <span style="font-size: 14px; font-weight: bold; color: #a855f7;">📱 Mobil & Web Arayüz</span><br/><br/>
       <img src="https://skillicons.dev/icons?i=react,ts,js,androidstudio,tailwind,bootstrap" alt="Frontend & Mobile" />
+      <br/><br/>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+        <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
+      </p>
     </td>
-    <td align="center" width="260" style="border: none; padding: 14px; background: rgba(255,255,255,0.02); border-radius: 8px;">
+    <td align="center" width="280" style="border: none; padding: 14px; background: rgba(255,255,255,0.02); border-radius: 8px;">
       <span style="font-size: 14px; font-weight: bold; color: #f43f5e;">🗄️ Veri Tabanı & Araçlar</span><br/><br/>
-      <img src="https://skillicons.dev/icons?i=postgres,mongodb,git,github,vscode" alt="Database & Tools" />
+      <img src="https://skillicons.dev/icons?i=postgres,mongodb,postman,git,github,visualstudio,vscode" alt="Database & Tools" />
     </td>
   </tr>
 </table>
@@ -77,7 +82,7 @@
 
 <br/>
 
-<!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,23,30&height=120&section=footer" width="100%" alt="Footer" />
+<!-- Footer (Header ile uyumlu renk paleti) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0b0f19,1e1b4b,38bdf8,a855f7&height=120&section=footer" width="100%" alt="Footer" />
 
 </div>
