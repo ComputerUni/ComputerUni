@@ -93,8 +93,8 @@
 <h3>📈 GitHub İstatistikleri & Performans</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ComputerUni&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=94a3b8&icon_color=a855f7&bg_color=0b0f19&hide_rank=true&cache_seconds=1800&timezone=Europe/Istanbul" alt="GitHub Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ComputerUni&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=94a3b8&bg_color=0b0f19&cache_seconds=1800" alt="Top Langs" height="160" />
+  <img src="https://github-stats-extended.vercel.app/api?username=ComputerUni&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=94a3b8&icon_color=a855f7&bg_color=0b0f19&hide_rank=true" alt="GitHub Stats" height="160" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ComputerUni&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=94a3b8&bg_color=0b0f19" alt="Top Langs" height="160" />
 </p>
 
 <p align="center">
