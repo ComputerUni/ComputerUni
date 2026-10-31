@@ -7,7 +7,7 @@
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1200&color=38BDF8&center=true&vCenter=true&width=580&lines=.NET+%26+ASP.NET+Core+Mimarileri;Modern+Web+%26+Mobil+%C3%87%C3%B6z%C3%BCmler;RESTful+API+%26+Servis+Mimarisi;React+Native+%26+Expo+ile+Mobil+Geliştirme" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1200&color=38BDF8&center=true&vCenter=true&width=580&lines=.NET+%26+ASP.NET+Core+Mimarileri;Modern+Web+%26+Mobil+%C3%87%C3%B6z%C3%BCmler;RESTful+API+%26+Servis+Mimarisi;React+Native+%26+Expo+ile+Mobil+Geli%C5%9Ftirme" alt="Typing SVG" />
 </a>
 
 <br/><br/>
