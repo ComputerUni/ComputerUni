@@ -5,7 +5,7 @@
 
 <!-- Daktilo Metni -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=550&lines=Full+Stack+Software+Developer;.NET+%26+ASP.NET+Core+Mimarileri;Modern+Web+%26+Mobil+%C3%87%C3%B6z%C3%BCmler;Performans%2C+%C4%B0ndeksleme+ve+Veri+Y%C3%B6netimi" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=580&lines=Full+Stack+Software+Developer;.NET+%26+ASP.NET+Core+Mimarileri;Modern+Web+%26+Mobil+%C3%87%C3%B6z%C3%BCmler;RESTful+API+%26+Servis+Mimarisi" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -25,12 +25,13 @@
     </td>
     <td align="center" width="300" style="border: none; padding: 14px; background: rgba(255,255,255,0.02); border-radius: 8px;">
       <span style="font-size: 14px; font-weight: bold; color: #a855f7;">📱 Mobil & Web Arayüz</span><br/><br/>
-      <img src="https://skillicons.dev/icons?i=react,ts,js,androidstudio,tailwind,bootstrap" alt="Frontend & Mobile" />
+      <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,bootstrap" alt="Frontend" />
       <br/><br/>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
-        <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
-      </p>
+      <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" />
+      &nbsp;
+      <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" height="28" alt="React Native" />
+      &nbsp;
+      <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" height="28" alt="Expo" />
     </td>
     <td align="center" width="280" style="border: none; padding: 14px; background: rgba(255,255,255,0.02); border-radius: 8px;">
       <span style="font-size: 14px; font-weight: bold; color: #f43f5e;">🗄️ Veri Tabanı & Araçlar</span><br/><br/>
