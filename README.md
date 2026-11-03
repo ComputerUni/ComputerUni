@@ -17,7 +17,7 @@
 <br/>
 
 <!-- ══════════════════════════════════ -->
-<!--         TEKNOLOJİ BÖLÜMÜ          -->
+<!--          TEKNOLOJİ BÖLÜMÜ          -->
 <!-- ══════════════════════════════════ -->
 
 <h3>🛠️ Teknoloji & Yetenek Dağılımı</h3>
@@ -47,6 +47,8 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
   &nbsp;
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
+  &nbsp;
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   &nbsp;
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -64,6 +66,8 @@
 **🗄️ Veritabanı & Araçlar**
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server" />
+  &nbsp;
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   &nbsp;
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
@@ -87,7 +91,7 @@
 <br/>
 
 <!-- ══════════════════════════════════ -->
-<!--        GITHUB İSTATİSTİKLER       -->
+<!--         GITHUB İSTATİSTİKLER       -->
 <!-- ══════════════════════════════════ -->
 
 <h3>📈 GitHub İstatistikleri & Performans</h3>
@@ -114,7 +118,7 @@
 <br/><br/>
 
 <!-- ══════════════════════════════════ -->
-<!--          İLETİŞİM BÖLÜMÜ          -->
+<!--           İLETİŞİM BÖLÜMÜ          -->
 <!-- ══════════════════════════════════ -->
 
 <h3>🌐 İletişim & Profesyonel Ağ</h3>
